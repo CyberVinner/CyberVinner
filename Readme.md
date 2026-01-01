@@ -78,7 +78,7 @@ My work includes **end-to-end vulnerability research** — from discovery and re
   <a href="https://medium.com/@vishwaofficials">
     <img src="https://img.shields.io/badge/Medium-@vishwaofficials-black?style=for-the-badge&logo=medium">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/vishwa-v-bb5452297/">
     <img src="https://img.shields.io/badge/LinkedIn-Vishwa%20V-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
